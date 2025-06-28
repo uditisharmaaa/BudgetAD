@@ -36,7 +36,7 @@ To use this dashboard:
 ## 📸 Screenshots
 
 ### Upload Interface
-![Upload Page](screenshots/budgetadss1.png)
+![Upload Page](screenshots/budgetadss4.png)
 *Clean, simple interface for uploading your FAB transaction HTML file*
 
 ### Dashboard Views
