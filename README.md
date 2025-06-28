@@ -17,19 +17,6 @@ With this tool, you can upload your FAB card transaction history and get **beaut
 - Your balance trends over time
 - Potential subscriptions you didn't realize you had
 
----
-
-## 📢 Important Update (June 2025)
-🔐 **Due to a recent website policy change**, FAB now requires CAPTCHA during login.  
-**This means automatic scraping is no longer possible.**
-
-To use this dashboard:
-1. Log in manually at:  
-👉 [https://ppc.magnati.com/ppc-inquiry/](https://ppc.magnati.com/ppc-inquiry/)
-2. Complete the CAPTCHA and enter your FAB card details.
-3. After your transactions load, right-click and select:  
-👉 **Save As → Webpage, HTML Only**
-4. Upload the saved `.html` file into this dashboard.
 
 ---
 
@@ -44,6 +31,21 @@ To use this dashboard:
 |---------------------------|----------------------|
 | ![Dashboard Screenshot 1](screenshots/budgetadss2.png) | ![Dashboard Screenshot 2](screenshots/budgetadss3.png) |
 | *Interactive charts showing spending patterns over time* | *Visual breakdown of your top spending categories and vendors* |
+
+---
+
+## 📢 Important Update (June 2025)
+🔐 **Due to a recent website policy change**, FAB now requires CAPTCHA during login.  
+**This means automatic scraping is no longer possible.**
+
+To use this dashboard:
+1. Log in manually at:  
+👉 [https://ppc.magnati.com/ppc-inquiry/](https://ppc.magnati.com/ppc-inquiry/)
+2. Complete the CAPTCHA and enter your FAB card details.
+3. After your transactions load, right-click and select:  
+👉 **Save As → Webpage, HTML Only**
+4. Upload the saved `.html` file into this dashboard.
+
 
 ---
 
