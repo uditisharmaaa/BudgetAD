@@ -1,0 +1,5 @@
+Flask
+pandas
+matplotlib
+beautifulsoup4
+lxml
