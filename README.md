@@ -30,8 +30,8 @@ With this tool, you can upload your FAB card transaction history and get **beaut
 ![Dashboard Screenshot 1](screenshots/budgetadss2.png)
 *Interactive charts showing spending patterns over time* 
 
-![Dashboard Screenshot 2](screenshots/budgetadss3.png) |
-*Visual breakdown of your top spending categories and vendors* |
+![Dashboard Screenshot 2](screenshots/budgetadss3.png) 
+*Visual breakdown of your top spending categories and vendors*
 
 ---
 
