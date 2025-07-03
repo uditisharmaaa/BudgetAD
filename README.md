@@ -27,10 +27,11 @@ With this tool, you can upload your FAB card transaction history and get **beaut
 *Clean, simple interface for uploading your FAB transaction HTML file*
 
 ### Dashboard Views
-| Monthly Spending Analysis | Top Vendors Breakdown |
-|---------------------------|----------------------|
-| ![Dashboard Screenshot 1](screenshots/budgetadss2.png) | ![Dashboard Screenshot 2](screenshots/budgetadss3.png) |
-| *Interactive charts showing spending patterns over time* | *Visual breakdown of your top spending categories and vendors* |
+![Dashboard Screenshot 1](screenshots/budgetadss2.png)
+*Interactive charts showing spending patterns over time* 
+
+![Dashboard Screenshot 2](screenshots/budgetadss3.png) |
+*Visual breakdown of your top spending categories and vendors* |
 
 ---
 
